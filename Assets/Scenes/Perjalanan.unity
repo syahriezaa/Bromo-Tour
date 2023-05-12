@@ -984,7 +984,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3adfee9b8d4ef9e4d908957f94ebc5a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delay: 4
+  delay: 3
   sceneIndex: 2
   fadeScren: {fileID: 243715257}
 --- !u!4 &316142780
@@ -5117,7 +5117,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1994093678}
-  offest: {x: 0.3, y: -0.2, z: 0.3}
+  offest: {x: 0.3, y: 0, z: 0.3}
 --- !u!136 &1725982598
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -6538,12 +6538,12 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 7d76f6e1b8f42a746aa69e815ed4bf08,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.277
+      value: 2.68
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7d76f6e1b8f42a746aa69e815ed4bf08,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.53
+      value: 3.08
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7d76f6e1b8f42a746aa69e815ed4bf08,
         type: 3}
@@ -6598,7 +6598,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 7d76f6e1b8f42a746aa69e815ed4bf08,
         type: 3}
       propertyPath: m_ConstrainProportionsScale
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7d76f6e1b8f42a746aa69e815ed4bf08,
         type: 3}
